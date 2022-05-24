@@ -1,0 +1,5 @@
+package com.anu.stock.model;
+
+public class Stock {
+
+}

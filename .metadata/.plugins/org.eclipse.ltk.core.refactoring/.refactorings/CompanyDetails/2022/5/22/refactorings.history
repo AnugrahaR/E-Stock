@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 2 elements from project &apos;CompanyDetails&apos;&#x0D;&#x0A;- Original project: &apos;CompanyDetails&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     elk.log.2022-05-02.0.gz&#x0D;&#x0A;     elk.log.2022-05-10.0.gz" description="Delete elements" element1="elk.log.2022-05-10.0.gz" element2="elk.log.2022-05-02.0.gz" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="2" stamp="1653352584326" subPackages="false" version="1.0"/>
+</session>
